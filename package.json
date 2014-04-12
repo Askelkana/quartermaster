@@ -1,5 +1,5 @@
 {
-	"name":         "app-name",
+	"name":         "quartermaster",
 	"version":      "0.0.1",
 	"private":      true,
 	"dependencies": {
@@ -9,6 +9,6 @@
 		"less-middleware":     "*",
 		"locomotive":          "0.3.x",
 		"locomotive-mongoose": "*",
-		"mongoose": "*"
+		"mongoose":            "*"
 	}
 }
