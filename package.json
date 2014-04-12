@@ -1,0 +1,14 @@
+{
+	"name":         "app-name",
+	"version":      "0.0.1",
+	"private":      true,
+	"dependencies": {
+		"connect-powered-by":  "0.1.x",
+		"express":             "3.x.x",
+		"ejs":                 "0.8.x",
+		"less-middleware":     "*",
+		"locomotive":          "0.3.x",
+		"locomotive-mongoose": "*",
+		"mongoose": "*"
+	}
+}
